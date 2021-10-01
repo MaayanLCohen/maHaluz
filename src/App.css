@@ -115,6 +115,11 @@ img {
     text-align: center !important;
 }
 
+.dropdown-menu {
+    max-height: 360px;
+    overflow-y: scroll;
+}
+
 .time {
     text-align: left !important;
     color: #06b3d7;
@@ -298,6 +303,7 @@ img {
     text-align: center;
     margin-top: 10px;
     color: black;
+    font-size: 6px;
 }
 
 .settingCoteret {
